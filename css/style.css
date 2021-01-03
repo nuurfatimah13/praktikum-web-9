@@ -1,0 +1,17 @@
+.col-sm {
+  text-align: center;
+  padding: 20px;
+  margin-top: 75px;
+}
+
+.col .card {
+  background-color: grey;
+  margin-bottom: 100px;
+  width: 50px;
+}
+
+.col-md-6 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
